@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Annie Bindu Das 
-### Data Analyst & Future Data Scientist | Exploring Opportunities
+### Business & Data Analyst | Exploring Opportunities
 
 Welcome to my GitHub! I’m a data-driven professional passionate about transforming raw data into actionable insights. With a solid foundation in Python, SQL, Power BI, and machine learning, I specialize in predictive modeling, data visualization, and business analysis. I love working on projects that challenge my skills and contribute to meaningful solutions.
 
